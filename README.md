@@ -1,0 +1,1 @@
+1. Me chamo Antonio Borges de Souza Rufino, atualmente sou mestrando com ênfase em inteligencia computacional pela UFPA, tenho interesse em redes neurais artificias e meus hobbies são programar, jogar e ler.
