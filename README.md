@@ -12,7 +12,7 @@
 1. [Acesse o projeto](https://github.com/Antonio-Borges-Rufino/SQL_Project_for_Data_Analysis_using_Oracle_Database/edit/main/README.md) 
 ![](https://github.com/Antonio-Borges-Rufino/SQL_Project_for_Data_Analysis_using_Oracle_Database/blob/main/3596zn01.png)  
 
-# Ciência de Dados
+# Machine learning and AI
 ### Projeto salinidade
 1. [Acesse o projeto](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade)
 ![](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/pipeline.jpg)
