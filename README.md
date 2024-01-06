@@ -1,4 +1,7 @@
 # Engenharia de Dados
+### Pipeline de ETL utilizando 
+1. [Acesse o projeto](https://github.com/Antonio-Borges-Rufino/ETL-de-dados-usando-GCP.-Airflow-DBT-e-Snowflake)
+![](https://github.com/Antonio-Borges-Rufino/ETL-de-dados-usando-GCP.-Airflow-DBT-e-Snowflake/blob/main/LSTM.png)
 ### Pipeline de ETL usando GCP e AWS para dados finaceiros 
 1. [Acesse o projeto](https://github.com/Antonio-Borges-Rufino/Build-an-ETL-Pipeline-for-Financial-Data-Analytics-on-GCP-IaC) 
 ![](https://github.com/Antonio-Borges-Rufino/Build-an-ETL-Pipeline-for-Financial-Data-Analytics-on-GCP-IaC/raw/main/Architecture.webp)
