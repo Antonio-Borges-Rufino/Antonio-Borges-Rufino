@@ -1,24 +1,10 @@
 # Engenharia de Dados
-### Pipeline de ETL utilizando 
-1. [Acesse o projeto](https://github.com/Antonio-Borges-Rufino/ETL-de-dados-usando-GCP.-Airflow-DBT-e-Snowflake)
-![](https://github.com/Antonio-Borges-Rufino/ETL-de-dados-usando-GCP.-Airflow-DBT-e-Snowflake/blob/main/LSTM.png)
-### Pipeline de ETL usando GCP e AWS para dados finaceiros 
-1. [Acesse o projeto](https://github.com/Antonio-Borges-Rufino/Build-an-ETL-Pipeline-for-Financial-Data-Analytics-on-GCP-IaC) 
-![](https://github.com/Antonio-Borges-Rufino/Build-an-ETL-Pipeline-for-Financial-Data-Analytics-on-GCP-IaC/raw/main/Architecture.webp)
-### Pipeline de dados usando Azure Stream Analytics
-1. [Acesse o projeto](https://github.com/Antonio-Borges-Rufino/Build-Streaming-Data-Pipeline-using-Azure-Stream-Analytics/blob/main/README.md) 
-![](https://github.com/Antonio-Borges-Rufino/Build-Streaming-Data-Pipeline-using-Azure-Stream-Analytics/assets/86124443/480f3612-0e16-4033-b723-e570f58a929d)
-### Plataforma analítica de e-comerce usando AWS
-1. [Acesse o projeto](https://github.com/Antonio-Borges-Rufino/Build-an-Analytical-Platform-for-eCommerce-using-AWS-Services) 
-![](https://github.com/Antonio-Borges-Rufino/Build-an-Analytical-Platform-for-eCommerce-using-AWS-Services/assets/86124443/2c6009fe-f5b0-4e15-8648-7b3f9c50168c)
-### Processamento SQL utilizando oracle
-1. [Acesse o projeto](https://github.com/Antonio-Borges-Rufino/SQL_Project_for_Data_Analysis_using_Oracle_Database/edit/main/README.md) 
-![](https://github.com/Antonio-Borges-Rufino/SQL_Project_for_Data_Analysis_using_Oracle_Database/blob/main/3596zn01.png)  
+### Objetivo
+1. Destinado a mostrar os meus projetos pessoais em infraestrutura e pipeline de dados.
+2. Acesse [aqui.](https://github.com/Antonio-Borges-Rufino/control_projects_de)
+# Machine Learning, Deep Learning e Data Science
 
-# Machine learning and AI
-### Projeto salinidade
-1. [Acesse o projeto](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade)
-![](https://github.com/Antonio-Borges-Rufino/Projeto_Salinidade/blob/main/Nova%20pasta/pipeline.jpg)
-### Transferencia de Estilo Usando CycleGan
-1. [Acesse o projeto](https://github.com/Antonio-Borges-Rufino/Traducao_Imagem)
-![](https://github.com/Antonio-Borges-Rufino/Traducao_Imagem/blob/main/293254426-c58784fe-ac92-46ff-9733-9845b91f9688.png)
+# Machine Learning and AI
+https://github.com/Antonio-Borges-Rufino/control_projects_MIA
+
+# Projetos de Pesquisa e Desenvolvimento
